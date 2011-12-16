@@ -134,5 +134,3 @@ chuckfacts = [
 module.exports = (robot) ->
   robot.respond /chuckfact/i, (msg) ->
     msg.send msg.random chuckfacts
-  robot.hear /chuckfact/i, (msg) ->
-    msg.send msg.random chuckfacts
