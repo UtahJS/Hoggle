@@ -5,7 +5,7 @@
 chuckfacts = [
 "Some kids piss their name in the snow. Chuck Norris can piss his name into concrete.",
 "Chuck Norris' calendar goes straight from March 31st to April 2nd; no one fools Chuck Norris.",
-"Leading hand sanitizers claim they can kill 99.9 percent of germs. Chuck Norris can kill 100 percent of whatever the fuck he wants.",
+"Leading hand sanitizers claim they can kill 99.9 percent of germs. Chuck Norris can kill 100 percent of whatever he wants.",
 "Chuck Norris counted to infinity - twice. ",
 "Chuck Norris once visited the Virgin Islands. They are now The Islands. ",
 "Chuck Norris' tears cure cancer. Too bad he has never cried. ",
@@ -19,7 +19,7 @@ chuckfacts = [
 "Chuck Norris owns the greatest Poker Face of all-time. It helped him win the 1983 World Series of Poker despite him holding just a Joker, a Get out of Jail Free Monopoly card, a 2 of clubs, 7 of spades and a green #4 card from the game Uno. ",
 "Chuck Norris can slam revolving doors. ",
 "Chuck Norris doesn't pop his collar, his shirts just get erections when they touch his body. ",
-"Chuck Norris sleeps with a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris "
+"Chuck Norris sleeps with a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris ",
 "Chuck Norris does not hunt because the word hunting implies the possibility of failure. Chuck Norris goes killing. ",
 "Chuck Norris doesn't read books. He stares them down until he gets the information he wants. ",
 "Chuck Norris was once on Celebrity Wheel of Fortune and was the first to spin. The next 29 minutes of the show consisted of everyone standing around awkwardly, waiting for the wheel to stop. ",
@@ -29,12 +29,11 @@ chuckfacts = [
 "When Chuck Norris gives you the finger, he's telling you how many seconds you have left to live. ",
 "Chuck Norris is not hung like a horse... horses are hung like Chuck Norris "
 "Chuck Norris doesn't have hair on his testicles, because hair does not grow on steel. ",
-"Chuck Norris is 1/8th Cherokee. This has nothing to do with ancestry, the man ate a fucking Indian. ",
+"Chuck Norris is 1/8th Cherokee. This has nothing to do with ancestry, the man ate an Indian. ",
 "Chuck Norris' dog is trained to pick up his own poop because Chuck Norris will not take shit from anyone. ",
-"Chuck Norris is always on top during sex because Chuck Norris never fucks up. ",
 "Bill Gates lives in constant fear that Chuck Norris' PC will crash. ",
 "When the Boogeyman goes to sleep every night he checks his closet for Chuck Norris. ",
-"If it looks like chicken, tastes like chicken, and feels like chicken but Chuck Norris says its beef, then it's fucking beef. ",
+"If it looks like chicken, tastes like chicken, and feels like chicken but Chuck Norris says its beef, then it's beef. ",
 "Giraffes were created when Chuck Norris uppercutted a horse. ",
 "Ghosts are actually caused by Chuck Norris killing people faster than Death can process them. ",
 "When Chuck Norris looks in a mirror the mirror shatters, because not even glass is stupid enough to get in between Chuck Norris and Chuck Norris. ",
@@ -84,8 +83,8 @@ chuckfacts = [
 "In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself. ",
 "Chuck Norris is the only man to ever defeat a brick wall in a game of tennis. ",
 "Chuck Norris is the reason why Waldo is hiding. ",
-"When Chuck Norris runs with scissors, other people get hurt.  "
-"Chuck Norris drives an ice cream truck covered in human skulls.  "
+"When Chuck Norris runs with scissors, other people get hurt.  ",
+"Chuck Norris drives an ice cream truck covered in human skulls.  ",
 "Chuck Norris was once the F.B.I's chief negotiator. His job involved calling up criminals and saying, This is Chuck Norris. ",
 "The reason newborn babies cry is because they know they have just entered a world with Chuck Norris. ",
 "When Chuck Norris breaks the law, the law doesn't heal. ",
@@ -96,13 +95,13 @@ chuckfacts = [
 "When Chuck Norris answers the phone, he just says Go. This is not permission for you to begin speaking, it is your cue to start running for your life. ",
 "Chuck Norris once partook in a pissing contest outside of a bar. His opponent drowned. ",
 "When Chuck Norris jumped into the ocean, he didn't get wet, the water got Chuck Norris'ed. ",
-"God said: Let there be light. Chuck Norris said: Say please! "
-"Chuck Norris can satisfy a woman by pointing at her with his finger and saying Booya "
+"God said: Let there be light. Chuck Norris said: Say please! ",
+"Chuck Norris can satisfy a woman by pointing at her with his finger and saying Booya ",
 "Chuckie is Chuck Norris' gay brother. ",
 "Facebook was created for counting how many people left to be roundhouse kicked. ",
-"Chuck Norris tells black jokes without looking over his shoulder "
+"Chuck Norris tells black jokes without looking over his shoulder ",
 "Chuck Norris was about to send an email when he realized it'd be faster to run. ",
-"It's not the fall that kills you, It's Chuck Norris waiting for you at the bottom "
+"It's not the fall that kills you, It's Chuck Norris waiting for you at the bottom ",
 "Chuck Norris has slept with the girl in your sex dreams. ",
 "Chuck Norris is so fast he can start a fire by rubbing two ice cubes together. ",
 "That's not an eclipse, that's the sun hiding from Chuck Norris. ",
@@ -118,7 +117,7 @@ chuckfacts = [
 "The North American Bison nearly went extinct because Chuck Norris needed a leather jacket. ",
 "Chuck Norris made a deal with the Devil.  The deal: Chuck Norris willonly kick the Devil's ass once per day, in exchange for Satan's soul. ",
 "Don't even ask. Chuck Norris is always serious. ",
-"Chuck Norris...End of Story "
+"Chuck Norris...End of Story ",
 "When Chuck Norris was little he followed a rainbow. He met a leprechaun and asked for its gold. It wouldn't give it to him. This is why we no longer have leprechauns. ",
 "The President has Chuck Norris on speed dial...on the red phone "
 "If you misspell Chuck Norris on Google it won't correct it, it just says you have 10 seconds to live. ",
