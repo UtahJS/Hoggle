@@ -119,7 +119,6 @@ chuckfacts = [
   "When Chuck Norris was born he roundhouse-kicked the doctor dead for hitting his butt. ",
   "Chuck Norris created all the accents in the world by punching everybody in the throat each in a different way. ",
   "B.C. really stands for Before Chuck. ",
-  "The Big Bang happened when Chuck Norris went back in time to just before the Universe began and every atom in the Universe immediately decided it should get the hell away from there and fast. ",
   "Chuck Norris has no home security system. Chuck Norris welcomes intruders.",
   "Chuck Norris has the eyes of an angel and the soul of a saint.  He keeps them in a footlocker under his bed."
 ]
