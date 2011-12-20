@@ -1,9 +1,9 @@
 {
-  "name":        "hosted-hubot",
+  "name":        "Hoggle",
   "version":     "0.2.0",
-  "author":      "GitHub Inc.",
-  "keywords":    "github hubot campfire bot",
-  "description": "A simple helpful Robot for your Company",
+  "author":      "Clint Berry",
+  "keywords":    "UtahJS Hubot",
+  "description": "The always helpful bot for the UtahJS IRC Channel",
   "licenses":     [{
     "type":       "MIT",
     "url":        "http://github.com/github/hubot/raw/master/LICENSE"
