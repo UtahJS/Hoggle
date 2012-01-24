@@ -10,7 +10,8 @@ chuckfacts = [
   "Chuck Norris once visited the Virgin Islands. They are now The Islands. ",
   "Chuck Norris' tears cure cancer. Too bad he has never cried. ",
   "Chuck Norris can speak braille. ",
-  "Chuck Norris died ten years ago, but the Grim Reaper can't get up the courage to tell him. ",
+  "Chuck Norris' smile brought a puppy back to life",
+  "Chuck Norris died 20 years ago, Death just hasn't built up the courage to tell him yet.",
   "Superman owns a pair of Chuck Norris pajamas. ",
   "Chuck Norris puts the laughter in manslaughter. ",
   "Chuck Norris does not sleep. He waits. ",
@@ -114,13 +115,14 @@ chuckfacts = [
   "When Chuck Norris was little he followed a rainbow. He met a leprechaun and asked for its gold. It wouldn't give it to him. This is why we no longer have leprechauns. ",
   "The President has Chuck Norris on speed dial...on the red phone "
   "If you misspell Chuck Norris on Google it won't correct it, it just says you have 10 seconds to live. ",
-  "Chuck Norris once played a game of golf without clubs. He shot a 17. ",
+  "In 1991, Chuck Norris shot a 14 on an 18 hole golf course, falling short of his personal best by 2 strokes.",
   "When Chuck Norris went to donate sperm, half the nurses drowned; the rest were pregnant. ",
   "When Chuck Norris was born he roundhouse-kicked the doctor dead for hitting his butt. ",
   "Chuck Norris created all the accents in the world by punching everybody in the throat each in a different way. ",
   "B.C. really stands for Before Chuck. ",
   "Chuck Norris has no home security system. Chuck Norris welcomes intruders.",
-  "Chuck Norris has the eyes of an angel and the soul of a saint.  He keeps them in a footlocker under his bed."
+  "Chuck Norris has the eyes of an angel and the soul of a saint.  He keeps them in a footlocker under his bed.",
+  "Chuck Norris played who will blink first, with a mirror. And he won"
 ]
 
 module.exports = (robot) ->
