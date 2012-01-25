@@ -10,5 +10,9 @@ module.exports = (robot) ->
     cmds = robot.helpCommands()
     if msg.match[1]
       cmds = cmds.filter (cmd) -> cmd.match(new RegExp(msg.match[1]))
+    # User instances with rooms automatically go to the channel
+    # Disabling this will stop the bot from flooding the channel every time
+    # someone needs help.
+    msg.message.user.room = false;
     msg.send cmds.join("\n")
 
