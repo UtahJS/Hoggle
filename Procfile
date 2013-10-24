@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n Hoggle
+app: node hoggle.js
