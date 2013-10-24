@@ -13,14 +13,14 @@
     "type" : "git",
     "url" : "http://github.com/github/hubot.git"
   },
-
+  "scripts": {
+    "test": "exit 0"
+  },
   "dependencies": {
-    "hubot": "2.0.5",
-    "hubot-irc": "0.0.5",
-    "hubot-scripts": "2.0.2",
-    "optparse": "1.0.3",
-    "nodepie": "0.4.0",
-    "twss" : "0.1.5"
+    "domo-kun": "~0.1.4",
+    "redwrap": "0.0.4",
+    "nconf": "~0.6.7",
+    "request": "~2.27.0"
   }
 }
 
