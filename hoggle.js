@@ -22,18 +22,15 @@ var config = {
    debug: true
 };
 
-var domo = new Domo(config);
-
-domo.route('Hello hoggle', function(res) {
-   this.say(res.channel, 'Well hello there ' + res.nick + '!');
-});
-
-domo.route('did you just auto deploy from travis ci', function(res) {
-  this.say(res.channel, 'YES I DID! Because I am master of the univers...');
-});
+var bot = new Domo(config);
 
 
-domo.connect();
+// **** MODULES ****
+
+var mod_example = require('./modules/example')(bot);
+
+
+bot.connect();
 
 
 // Webserver required for heroku
