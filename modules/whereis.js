@@ -6,7 +6,8 @@ rw = require("random-words")
 
 // All modules must export a function that accepts a bot instance
 module.exports = function(bot) {
-  bot.route('where is :name?', function(res) {
-    this.say(res.channel, res.params.name + " is in the " + rw() + " " + rw() + ".");
+  bot.route('where is *?', function(res) {
+    var name = res.splats[0].replace(/\W/g, '')
+    this.say(res.channel, name + " is in the " + rw() + " " + rw() + ".");
   });
 };

@@ -28,6 +28,7 @@ var bot = new Domo(config);
 // **** MODULES ****
 
 var mod_example = require('./modules/example')(bot);
+var mod_whereis = require('./modules/whereis')(bot);
 
 
 bot.connect();
