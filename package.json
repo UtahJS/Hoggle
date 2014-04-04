@@ -1,17 +1,18 @@
 {
-  "name":        "Hoggle",
-  "version":     "0.2.0",
-  "author":      "Clint Berry",
-  "keywords":    "UtahJS Hubot",
+  "name": "Hoggle",
+  "version": "0.2.0",
+  "author": "Clint Berry",
+  "keywords": "UtahJS Hubot",
   "description": "The always helpful bot for the UtahJS IRC Channel",
-  "licenses":     [{
-    "type":       "MIT",
-    "url":        "http://github.com/github/hubot/raw/master/LICENSE"
-  }],
-
-  "repository" : {
-    "type" : "git",
-    "url" : "http://github.com/github/hubot.git"
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/github/hubot/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/github/hubot.git"
   },
   "scripts": {
     "test": "exit 0"
@@ -21,6 +22,8 @@
     "redwrap": "0.0.4",
     "nconf": "~0.6.7",
     "request": "~2.27.0"
+  },
+  "devDependencies": {
+    "random-words": "0.0.1"
   }
 }
-
