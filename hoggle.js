@@ -29,7 +29,7 @@ var bot = new Domo(config);
 
 var mod_example = require('./modules/example')(bot);
 var mod_whereis = require('./modules/whereis')(bot);
-
+var mod_8ball = require('./modules/8ball')(bot);
 
 bot.connect();
 
